@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blog App**
 
-- 🌱 I’m currently learning **React js, tailwind css, javascript**
+- 🌱 I’m currently learning **Node Js, Mongodb, Mongoose, Express js, Next Js, **
 
 - 💬 Ask me about **React js, javascript, tailwind css, HTML, CSS, Appwrite**
 
@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deepak_yadv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak_yadv1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak-ydv0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-ydv0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepak-ydv0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-ydv0" height="50" width="40" /></a>
+
+<a href="https://twitter.com/deepak_yadv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak_yadv1" height="50" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
