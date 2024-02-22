@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/deepak_yadv1" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_yadv1?logo=twitter&style=for-the-badge" alt="deepak_yadv1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/deepak_yadv1" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_yadv1?logo=twitter&style=for-the-badge" alt="deepak_yadv1" /></a>  <a href="https://linkedin.com/in/deepak-ydv0" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a> </p>
 
 - 🔭 I’m currently working on **Blog App**
 
