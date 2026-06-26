@@ -1,30 +1,174 @@
 <h1 align="center">Hi 👋, I'm Deepak Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/deepak_yadv1" target="blank"><img src="https://img.shields.io/twitter/follow/deepak_yadv1?logo=twitter&style=for-the-badge" alt="deepak_yadv1" /></a>  <a href="https://linkedin.com/in/deepak-ydv0" target="blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a> </p>
+<h3 align="center">
+🚀 DevOps Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD | Linux
+</h3>
 
-- 🔭 I’m currently working on Blog App
-
-- 🌱 I’m currently learning Node Js, Mongodb, Mongoose, Express js, Next Js, 
-
-- 💬 Ask me about React js, javascript, tailwind css, HTML, CSS, Appwrite
-
-- 📫 How to reach me dk806020@gmail.com
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://twitter.com/deepak_yadv1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak_yadv1" height="50" width="40" /></a> <a href="https://linkedin.com/in/deepak-ydv0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-ydv0" height="50" width="40" /></a> 
+<p align="center">
+Building scalable cloud infrastructure, automating deployments, and delivering reliable software through DevOps best practices.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" margin="20"/> </a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" margin="20"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>  <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="50" height="50" margin="20"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="50" height="50" margin="20"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> </p>
+<p align="center">
+<a href="https://linkedin.com/in/deepak-ydv0">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-ydv0&show_icons=true&locale=en&layout=compact" alt="deepak-ydv0
-" /></p>
+<a href="mailto:dk806020@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+<a href="https://github.com/deepak-ydv0">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-ydv0&show_icons=true&locale=en" alt="deepak-ydv0
-" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-ydv0&" alt="deepak-ydv0
-" /></p>
+# 👨‍💻 About Me
+
+- 💼 DevOps Engineer with **1.5+ years of experience**
+- ☁️ Experienced with **AWS Cloud Infrastructure**
+- 🐳 Containerizing applications using **Docker**
+- ☸️ Deploying workloads on **Kubernetes**
+- ⚙️ Building CI/CD pipelines using **GitHub Actions** & **Jenkins**
+- 🏗️ Managing Infrastructure as Code with **Terraform**
+- 📊 Monitoring infrastructure using **CloudWatch, Prometheus & Grafana**
+- 🐧 Strong Linux Administration & Bash scripting skills
+- 🌱 Currently learning **ArgoCD, Helm, Ansible, ELK Stack & DevSecOps**
+
+---
+
+# ⚡ Tech Stack
+
+## ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
+## 🚀 DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,linux,bash,nginx,ansible"/>
+</p>
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,nodejs,js"/>
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+</p>
+
+## 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
+
+---
+
+# 🚀 Core Skills
+
+- AWS (EC2, S3, IAM, VPC, CloudFront, Route53, CloudWatch, EKS)
+- Docker & Docker Compose
+- Kubernetes
+- Helm
+- Terraform
+- GitHub Actions
+- Jenkins
+- Linux Administration
+- Bash Scripting
+- Nginx
+- Git
+- Infrastructure as Code (IaC)
+- CI/CD Automation
+- Monitoring & Logging
+- DevSecOps
+
+---
+
+# 📂 Featured DevOps Projects
+
+## ☁️ AWS Infrastructure with Terraform
+
+- VPC
+- EC2
+- IAM
+- Route53
+- S3
+- CloudWatch
+- Remote Backend
+- DynamoDB Locking
+
+---
+
+## ☸️ Kubernetes Microservices Platform
+
+- Docker
+- Kubernetes
+- Helm
+- Ingress
+- HPA
+- ConfigMaps
+- Secrets
+- Rolling Updates
+
+---
+
+## 🚀 CI/CD Automation
+
+- GitHub Actions
+- Jenkins
+- Docker
+- Docker Hub
+- AWS EC2 Deployment
+- Smoke Testing
+- Rollback Strategy
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=deepak-ydv0&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-ydv0&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-ydv0&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak-ydv0&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+- AWS Solutions Architect Associate *(Preparing)*
+- Certified Kubernetes Administrator *(Preparing)*
+- HashiCorp Terraform Associate *(Preparing)*
+
+---
+
+# 🤝 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/deepak-ydv0
+- 📧 Email: **dk806020@gmail.com**
+
+---
+
+⭐ *Always learning. Always automating. Always improving.*
